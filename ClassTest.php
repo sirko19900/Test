@@ -8,6 +8,7 @@ class ClassTest
 {
 
     public $id = "231";
+    public $name= "overdraft";
 
 }
 
